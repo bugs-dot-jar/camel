@@ -90,5 +90,4 @@ public interface ErrorHandlerBuilder extends ErrorHandlerFactory {
      * @return a clone of this {@link ErrorHandlerBuilder}
      */
     ErrorHandlerBuilder cloneBuilder();
-    
 }
